@@ -1,0 +1,142 @@
+31 JOBS FOUND
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 9 Days Ago
+- JR2010096
+- locations
+- US, TX, Austin
+- posted on
+- Posted 9 Days Ago
+- JR2010391
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 12 Days Ago
+- JR2009705
+- locations
+- 2 Locations
+- posted on
+- Posted 13 Days Ago
+- JR2010010
+- locations
+- 4 Locations
+- posted on
+- Posted 13 Days Ago
+- JR2010161
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 13 Days Ago
+- JR2008395
+- locations
+- 2 Locations
+- posted on
+- Posted 13 Days Ago
+- JR2009485
+- locations
+- US, WA, Seattle
+- posted on
+- Posted 13 Days Ago
+- JR2001017
+- locations
+- 2 Locations
+- posted on
+- Posted 13 Days Ago
+- JR2009294
+- locations
+- US, OR, Hillsboro
+- posted on
+- Posted 13 Days Ago
+- JR2009926
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 14 Days Ago
+- JR2009985
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 16 Days Ago
+- JR1997786
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 16 Days Ago
+- JR2009983
+- locations
+- 4 Locations
+- posted on
+- Posted 16 Days Ago
+- JR2009610
+- locations
+- 2 Locations
+- posted on
+- Posted 19 Days Ago
+- JR2005867
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 20 Days Ago
+- JR2009934
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 20 Days Ago
+- JR2008990
+- locations
+- 2 Locations
+- posted on
+- Posted 22 Days Ago
+- JR2004939
+- locations
+- US, TX, Austin
+- posted on
+- Posted 22 Days Ago
+- JR1999119
+- locations
+- US, CA, Santa Clara
+- posted on
+- Posted 23 Days Ago
+- JR2009464
+1 - 20 of 31 jobs
+- locations
+- US, CA, Santa Clara
+- time type
+- Full time
+- posted on
+- Posted 23 Days Ago
+- job requisition id
+- JR2009464
+NVIDIA is searching for an outstanding AI researcher to join the learning and perception research team. We are passionate about research that pushes boundaries but also has impact in the real world. Specific areas we are excited by include -- but are not limited to -- perception, agentic reasoning, multi-modal learning, as well as embodied AI. You will work within an amazing and collaborative research team that consistently publishes at the top venues in computer vision and machine learning. Our existing expertise includes computer vision, deep learning, generative models, and so forth. Your contributions have the chance to create real impact on our products.
+What you'll be doing:
+Research, design and implement novel embodied and agentic AI methods.
+Publish original research.
+Collaborate with other team members and teams on mission-driven research.
+Mentor interns.
+Speak at conferences and events.
+Work with product groups to transfer technology.
+Collaborate with external researchers.
+What we need to see:
+Graduating with a Ph.D. in Computer Science/Engineering, Electrical Engineering, etc., or have equivalent research experience.
+Excellent knowledge of theory and practice of computer vision, LLMs, and agents.
+Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA) is a plus.
+Knowledge of common machine learning frameworks, such as PyTorch.
+Outstanding research track record.
+Excellent communications skills.
+NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you!
+With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our best-in-class research teams are rapidly growing.
+Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 160,000 USD - 258,750 USD.You will also be eligible for equity and benefits.
+Similar Jobs (5)
+- locations
+- 2 Locations
+- time type
+- Full time
+- posted on
+- Posted 13 Days Ago
+- locations
+- 2 Locations
+- time type
+- Full time
+- posted on
+- Posted 13 Days Ago
